@@ -174,7 +174,7 @@ nav .menu li a{
 
 @media only screen and (max-device-width: 550px) {
 	.col-1 h2{
-		font-size: 1.5em;
+		font-size: 2em;
 		padding-left: 15px;
 		padding-right: 20px;
 		color: #fff;
@@ -320,7 +320,7 @@ nav .menu li a{
 }
 
 .col-1 h2{
-	font-size: 1.5em;
+	font-size: 2em;
 	padding-left: 15px;
 	padding-right: 20px;
 	color: #fff;
