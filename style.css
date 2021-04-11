@@ -173,6 +173,15 @@ nav .menu li a{
 }
 
 @media only screen and (max-device-width: 550px) {
+	.col-1 h2{
+		font-size: 1.5em;
+		padding-left: 15px;
+		padding-right: 20px;
+		color: #fff;
+		background: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+		box-shadow: 5px 15px 30px rgba(0,0,0,0.3);
+		border-radius: 10px;
+	}
 
 	.owo{
 		padding-top: 70%;
@@ -311,7 +320,7 @@ nav .menu li a{
 }
 
 .col-1 h2{
-	font-size: 2.5em;
+	font-size: 1.5em;
 	padding-left: 15px;
 	padding-right: 20px;
 	color: #fff;
